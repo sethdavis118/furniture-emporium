@@ -1,0 +1,16 @@
+1. Add type selectors titled "items" for CSS styling (this will comply with the product cards section.)
+2. Add styling for all the text elements 
+3. Add styling for the prices with a class
+
+
+=======================
+INSTRUCTIONS
+✅ CSS rules are written in index.css and linked to index.html.
+✅At least one CSS rule uses a type selector.
+✅At least one class has been added to at least one tag in index.html. The class name describes the semantic purpose of that element.
+✅At least one CSS rule uses a class selector.
+✅A combination of margin and padding have been used for visual spacing between elements.
+✅The product cards have a different background color from the rest of the page.
+✅The add-to-cart buttons have a different background color from the rest of the page.
+✅Properties, such as family, color, or size, of the text inside the product cards have been changed.
+✅The contrast ratios of all text on the page pass the WCAG AA standards.
